@@ -684,6 +684,7 @@ arrayMinMax(false);
 arrayMinMax([]);
 arrayMinMax([2, 3, true]);
 arrayMinMax([1, 2, 5, 99, -60]);
+
 */
 /**
  * Resolucion de problemas 23:
